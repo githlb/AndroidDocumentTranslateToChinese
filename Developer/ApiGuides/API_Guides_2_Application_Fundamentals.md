@@ -1,3 +1,4 @@
+随便翻译，仅供娱乐
 #Application Fundamentals
 
 安卓app采用Java语言编写。Android SDK tools这套工具会编译你的代码，然后把所有数据和资源文件一起打包到一个后缀是.apk的压缩文件。一个Apk文件包含一个app的所有内容，并且这个就是安卓设备用来安装文件的安装包。
